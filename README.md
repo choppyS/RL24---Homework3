@@ -6,7 +6,7 @@ This repository contains instructions to download the folders from GitHub, launc
 # Setup 🛠️ ⚡
 Open the terminal, launch the container, and navigate to the directory where you want to download the folder. Then, clone the repository with:
 ```
-git clone https://github.com/elenadag/homework3.git
+git clone https://github.com/choppyS/RL24---Homework3.git
 ```
 To build the packages, navigate to the ROS2 workspace and build them with:
 ```
